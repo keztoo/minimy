@@ -1,0 +1,2 @@
+# minimy
+Voice Application Framework
